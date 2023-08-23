@@ -1,0 +1,14 @@
+body{
+    /*This will align the canvas to the center of the page*/
+    text-align: center;
+    background-color:aliceblue;
+}
+
+#board{
+    background-color:beige;
+    border-top: 5px solid darksalmon;
+    border-bottom:  5px solid darkorange;
+}
+h1{
+    color:orangered;
+}
